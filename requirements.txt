@@ -1,0 +1,12 @@
+langchain==0.1.0
+openai==1.0.0
+python-dotenv==1.0.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.13
+duckduckgo-search>=4.1.1
+lotus-ai>=0.1.4
+pandas
+requests
+sqlalchemy==2.0.0
+sentence-transformers
+psycopg2
